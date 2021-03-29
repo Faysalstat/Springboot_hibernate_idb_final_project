@@ -1,0 +1,134 @@
+/*--------------------------------------------------------------
+  Template Name: Uniqlo-Minimalist eCommerce HTML5 Template.
+  Template URI: #
+  Description: Uniqlo is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: HasTech
+  Author URI: https://themeforest.net/user/hastech/portfolio
+  Version: 1.1
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+        You can put your custom css code here: 
+-------------------------------------------------------*/
+.btn-grey{
+    background-color:#D8D8D8;
+    color:#FFF;
+}
+.rating-block{
+    background-color:#FAFAFA;
+    border:1px solid #EFEFEF;
+    padding:15px 15px 20px 15px;
+    border-radius:3px;
+}
+.bold{
+    font-weight:700;
+}
+.padding-bottom-7{
+    padding-bottom:7px;
+}
+
+.review-block{
+    background-color:#FAFAFA;
+    border:1px solid #EFEFEF;
+    padding:15px;
+    border-radius:3px;
+    margin-bottom:15px;
+}
+.review-block-name{
+    font-size:12px;
+    margin:10px 0;
+}
+.review-block-date{
+    font-size:12px;
+}
+.review-block-rate{
+    font-size:13px;
+    margin-bottom:15px;
+}
+.review-block-title{
+    font-size:15px;
+    font-weight:700;
+    margin-bottom:10px;
+}
+.review-block-description{
+    font-size:13px;
+}
+
+.img-center{
+    position: absolute;
+    margin: 10px 20px;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    display: none;
+    background-color:#2e7dea;
+    color: white;
+    padding: 4px;
+    font-size: 17px;
+    line-height: 18px;
+}
+.pro__thumb{
+    display: inline-block;
+    position: relative;
+}
+#alertbox{
+    position: fixed;
+    width: 300px;
+    height: 100px;
+    background-color:#fff;
+    padding:20px;
+    border: 1px solid black;
+    border-radius:15px;
+    text-align: center;
+    top: 32%;
+    left: 38%;
+    display: none;
+    /*margin: auto;*/
+    /*    margin-top: -100px;  Negative half of height. 
+        margin-left: -250px;  Negative half of width. */
+}
+#alertbox button{
+    margin:20px;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #41ACF2;
+    border-radius: 50%;
+    display: block;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+.sqline{
+    height: 250px;
+    width: 12px;
+    background-color: #41ACF2;
+    display: block;
+    bottom:0;
+    margin-left: 6px;
+    margin-top:-5px;
+}
+.track{
+    padding-left:20px;
+}
+.track h4{
+    color:#eb3434;
+}
+.track h3{
+    color:#434343;
+    font-size:2em;
+}
+.tkspan{
+    color:#303030;
+    font-weight: bolder;
+}
+.borderbottom{
+    border-bottom:1px solid black;
+}
+
+.spans{
+    overflow: hidden;
+}
+.trackrow{
+    height:180px;
+}

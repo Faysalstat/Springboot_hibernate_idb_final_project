@@ -1,0 +1,47 @@
+.orderbox{
+    margin: auto;
+    border-radius: 5px;
+    /*height: 100px;*/
+    /*width: 150px;*/
+    padding: 5px;
+    text-align: center;
+
+  }
+  .orderbox h2{
+    color: white;
+    text-align: center;
+  }
+  
+  .orderbox hr{
+    background-color: white;
+    height: 3px;
+    width: 90%;
+    margin-top: 10px;
+  }
+  .order-bg-1{
+    background-color: #be62f0;
+  }
+  .order-bg-2{
+    background-color: #16a7f5;
+  }
+  .order-bg-3{
+    background-color: #f5c52a;
+  }
+  .order-bg-4{
+    background-color: #1da821;
+  }
+  .order-bg-5{
+    background-color: #ff1414;
+  }
+  .orderbox .label,.total{
+    font-size:20px;
+    color:#100e12;
+    text-align: center;
+    font-family:roboto;
+    
+  }
+  .total{
+      color:#FFF;
+    font-weight: bolder;
+  }
+  

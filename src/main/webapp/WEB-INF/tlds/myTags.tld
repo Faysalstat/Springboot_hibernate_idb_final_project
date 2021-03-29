@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+  <tlib-version>1.0</tlib-version>
+  <short-name>mytags</short-name>
+  <uri>/tlds/myTags</uri>
+  <tag>
+    <name>customheader</name>
+    <tag-class>hatkhola.tags.DashHeaderTag</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>customaside</name>
+    <tag-class>hatkhola.tags.DashAsideTag</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>ecomcustomhead</name>
+    <tag-class>hatkhola.tags.EcomHeaderTag</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>ecomcustomfooter</name>
+    <tag-class>hatkhola.tags.EcomFooterTag</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>ecomproductview</name>
+    <tag-class>hatkhola.tags.EcomProductViewTag</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>cartlistmodal</name>
+    <tag-class>hatkhola.tags.EcomCartlistModal</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <!--    <tag>
+        <name>tag2</name>
+        <tag-class>com.demo.tags.Tag2</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>tag3</name>
+        <tag-class>com.demo.tags.Tag3</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>tag4</name>
+        <tag-class>com.demo.tags.Tag4</tag-class>
+        <body-content>empty</body-content>
+    </tag>-->
+</taglib>
